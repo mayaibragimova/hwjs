@@ -11,7 +11,8 @@ let createStudent = {
     console.log('Myrzagul Sultanova');
   }, 
 }
-console.log(createStudent);
+ console.log(createStudent);
+
 
 // 2.
 
