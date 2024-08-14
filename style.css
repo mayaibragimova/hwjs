@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Space+Grotesk:wght@300;400;500&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    font-family: 'Space Grotesk', sans-serif;
+}
+
+
+body {
+    background-color: aqua;
+   display: flex;
+}
+div.contaainer{
+    background-color: chartreuse;
+    display: flex;
+
+}
+ h1 {
+    padding-left: 30%;
+    color: darkblue;
+ }
+
+#create-task{
+    border-radius: 14px;
+   font-size: 18px;
+    background-color: brown;
+}
+
+
+
+
+.task-item {
+    
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 10px ;
+    border-radius: 8px;
+    
+}
+
+  
+
+.clear__all {
+    background-color: bisque;
+   
+    
+}
